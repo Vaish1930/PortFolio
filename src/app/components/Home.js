@@ -1,10 +1,11 @@
 import styled from "styled-components";
 import { IconButton } from "@material-ui/core";
-import FacebookIcon from "@material-ui/icons/Facebook";
+// import FacebookIcon from "@material-ui/icons/Facebook";
 import InstagramIcon from "@material-ui/icons/Instagram";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import ArrowDropDownCircleRoundedIcon from "@material-ui/icons/ArrowDropDownCircleRounded";
+import TwitterIcon from "@material-ui/icons/Twitter";
 
 import hero from "../assets/images/hero.jpg";
 
@@ -18,10 +19,10 @@ function Home() {
       <SocialContainer>
         <IconButton>
           <IconContainer
-            href="https://www.facebook.com/suchi.3010"
+            href="https://twitter.com/Vaishnavi_1030"
             target="_blank"
           >
-            <FacebookIcon />
+            <TwitterIcon />
           </IconContainer>
         </IconButton>
         <IconButton>
@@ -72,7 +73,7 @@ const HomeContainer = styled.section`
 `;
 
 const HeroDetails = styled.div`
-  /* background-color: rgba(0, 0, 0, 0.4); */
+  background-color: rgba(0, 0, 0, 0.4);
   padding: 10px;
   border-radius: 20px;
   color: #fff;

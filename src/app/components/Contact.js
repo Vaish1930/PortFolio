@@ -14,15 +14,15 @@ function Contact() {
     setIsButtonActive(true);
     try {
       await emailJs.send(
-        "service_6rv44ph",
-        "template_cf1pzn9",
+        "service_ez7dwns",
+        "template_uffnntp",
         {
           from_name: name,
-          to_name: "Mohd Sameer Ahmad",
+          to_name: "Vaishnavi Srivastava",
           message: message,
           reply_to: email,
         },
-        "user_jxvX5ugeLxFWPSMTvCIYp"
+        "user_yCfje73ITQYweBlB5RS6M"
       );
 
       alert("Your message was sent successfully!");
