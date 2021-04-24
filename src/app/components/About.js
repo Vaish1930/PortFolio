@@ -7,7 +7,7 @@ function About() {
   return (
     <AboutContainer id="about">
       <AboutImageContainer>
-        <AboutImage src="https://scontent.flko7-1.fna.fbcdn.net/v/t1.6435-9/104482823_956499954794520_3596117502670329697_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=pfF5z2WFgYAAX8B1pHN&_nc_ht=scontent.flko7-1.fna&oh=9281d31e8a1f09fb8d267643a205dea2&oe=60A88B23" />
+        <AboutImage src="https://cdn.discordapp.com/attachments/798248185155289101/835419506469634068/IMG-20190907-WA0212.jpg" />
       </AboutImageContainer>
       <AboutContent>
         <AboutHeading>Know About Me !</AboutHeading>
@@ -17,8 +17,7 @@ function About() {
         </AboutDescription>
         <AboutHeading>Contact</AboutHeading>
         <AboutDescription>
-          ⚙ 9721152944 <br /> ⚙ 271 A/2 Tilak Nagar <br /> ⚙ Allahpur Prayagraj
-          <br />⚙ Near Tilak Sikshad Santhan
+          ⚙ srivastavavaishnavi39@gmail.com <br /> ⚙ Lucknow,UP <br /> ⚙ India
         </AboutDescription>
         <StyledButton href="https://drive.google.com/file/d/1jzmeGPB2JJO48zI9cTyvLom7v2gKCjbJ/view?usp=sharing">
           <GetAppIcon /> Download Resume

@@ -17,23 +17,32 @@ function Home() {
       </HeroDetails>
       <SocialContainer>
         <IconButton>
-          <IconContainer href="https://www.facebook.com/" target="_blank">
+          <IconContainer
+            href="https://www.facebook.com/suchi.3010"
+            target="_blank"
+          >
             <FacebookIcon />
           </IconContainer>
         </IconButton>
         <IconButton>
-          <IconContainer href="https://www.linkedin.com" target="_blank">
+          <IconContainer
+            href="https://www.linkedin.com/in/vaishnavi-srivastava-93273b1b6/"
+            target="_blank"
+          >
             <LinkedInIcon />
           </IconContainer>
         </IconButton>
         <IconButton>
-          <IconContainer href="https://www.instagram.com/" target="_blank">
+          <IconContainer
+            href="https://www.instagram.com/__v.a.i.s.h.n.a.v.i_/"
+            target="_blank"
+          >
             <InstagramIcon />
           </IconContainer>
         </IconButton>
         <IconButton>
           <IconContainer
-            href="https://www.github.com/mohdsameer7408"
+            href="https://github.com/Vaish1930?tab=repositories"
             target="_blank"
           >
             <GitHubIcon />
@@ -104,7 +113,7 @@ const IconContainer = styled.a`
 
   :hover .MuiSvgIcon-root {
     transform: scale(1.2);
-    color: #800020;
+    color: #1b2d56;
   }
 `;
 
@@ -119,6 +128,6 @@ const ArrowDropdownCustom = styled(ArrowDropDownCircleRoundedIcon)`
   transition: 0.5s color ease-in-out !important;
 
   :hover {
-    color: #800020 !important;
+    color: #1b2d56 !important;
   }
 `;

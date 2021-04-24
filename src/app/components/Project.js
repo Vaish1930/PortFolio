@@ -23,10 +23,13 @@ function Project() {
 
         <ProjectCardContainer>
           <ProjectCard>
-            <ProjectImage src="https://cdn.discordapp.com/attachments/764593802866327569/835152984190746627/Screenshot_2021-04-23-19-29-15-022.jpg" />
+            <ProjectImage src="https://cdn.discordapp.com/attachments/798248185155289101/835413211104280576/Screenshot_20210424-124159.png" />
           </ProjectCard>
           <ProjectTitle>Recipe App</ProjectTitle>
-          <ProjectUrl href="" target="_blank">
+          <ProjectUrl
+            href="https://github.com/Vaish1930/RecipeApp"
+            target="_blank"
+          >
             Project Url{" "}
           </ProjectUrl>
         </ProjectCardContainer>
@@ -36,7 +39,10 @@ function Project() {
             <ProjectImage src="https://cdn.discordapp.com/attachments/773525005580500996/835143325304619018/Screenshot_20210423-184835.png" />
           </ProjectCard>
           <ProjectTitle>Book Cricket</ProjectTitle>
-          <ProjectUrl href="" target="_blank">
+          <ProjectUrl
+            href="https://github.com/Vaish1930/Book-Cricket"
+            target="_blank"
+          >
             Project url
           </ProjectUrl>
         </ProjectCardContainer>
@@ -57,16 +63,34 @@ function Project() {
             <ProjectWebImage src="https://media.discordapp.net/attachments/785856007817003008/834130346395566190/unknown.png?width=945&height=489" />
           </ProjectWebCard>
           <ProjectTitle>WhatsApp-Clone</ProjectTitle>
-          <ProjectUrl href="" target="_blank">
+          <ProjectUrl
+            href="https://github.com/Vaish1930/whatsapp-clone"
+            target="_blank"
+          >
             Project url
           </ProjectUrl>
         </ProjectCardContainer>
         <ProjectCardContainer>
           <ProjectWebCard>
-            <ProjectWebImage src="https://media.discordapp.net/attachments/785856007817003008/834130346395566190/unknown.png?width=945&height=489" />
+            <ProjectWebImage src="https://cdn.discordapp.com/attachments/785856007817003008/835218180770496572/instagram.png" />
           </ProjectWebCard>
-          <ProjectTitle>WhatsApp-Clone</ProjectTitle>
-          <ProjectUrl href="" target="_blank">
+          <ProjectTitle>Instagram-Clone</ProjectTitle>
+          <ProjectUrl
+            href="https://github.com/Vaish1930/instagram-clone"
+            target="_blank"
+          >
+            Project url
+          </ProjectUrl>
+        </ProjectCardContainer>
+        <ProjectCardContainer>
+          <ProjectWebCard>
+            <ProjectWebImage src="https://cdn.discordapp.com/attachments/798248185155289101/835421870584233994/Screenshot_114.png" />
+          </ProjectWebCard>
+          <ProjectTitle>Shop-App</ProjectTitle>
+          <ProjectUrl
+            href="https://github.com/Vaish1930/Shopapp"
+            target="_blank"
+          >
             Project url
           </ProjectUrl>
         </ProjectCardContainer>
