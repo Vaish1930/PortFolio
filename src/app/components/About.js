@@ -19,7 +19,10 @@ function About() {
         <AboutDescription>
           ⚙ srivastavavaishnavi39@gmail.com <br /> ⚙ Lucknow,UP <br /> ⚙ India
         </AboutDescription>
-        <StyledButton href="https://drive.google.com/file/d/1jzmeGPB2JJO48zI9cTyvLom7v2gKCjbJ/view?usp=sharing">
+        <StyledButton
+          href="https://drive.google.com/file/d/1QVzmQYWBi9jePUbVIvbC6jMZbPahydDA/view?usp=sharing"
+          target="_blank"
+        >
           <GetAppIcon /> Download Resume
         </StyledButton>
       </AboutContent>

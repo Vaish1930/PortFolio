@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { IconButton } from "@material-ui/core";
-// import FacebookIcon from "@material-ui/icons/Facebook";
+
 import InstagramIcon from "@material-ui/icons/Instagram";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
@@ -73,7 +73,7 @@ const HomeContainer = styled.section`
 `;
 
 const HeroDetails = styled.div`
-  background-color: rgba(0, 0, 0, 0.4);
+  /* background-color: rg   ba(0, 0, 0, 0.4); */
   padding: 10px;
   border-radius: 20px;
   color: #fff;
